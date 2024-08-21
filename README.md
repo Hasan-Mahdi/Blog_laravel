@@ -14,7 +14,7 @@
 <br>
 <code>php run server</code>
 <br>
-and should create database named <span style="color:orangered">blog_laravel</span>
+and should create database (mysql) named <span style="color:orangered">blog_laravel</span> check .env file
 <code>php artisan migrate</code>
 
 ## About Laravel
