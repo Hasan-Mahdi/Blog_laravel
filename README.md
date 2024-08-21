@@ -9,8 +9,11 @@
 
 ## How To Install
 <code>composer install</code>
+<br>
 <code>npm install</code>
+<br>
 <code>php run server</code>
+<br>
 and should create database named <span style="color:orangered">blog_laravel</span>
 <code>php artisan migrate</code>
 
