@@ -12,10 +12,11 @@
 <br>
 <code>npm install</code>
 <br>
-<code>php run server</code>
+<code>php artisan migrate</code>
+<br>
+<code>php artisan serve</code>
 <br>
 and should create database (mysql) named <span style="color:orangered">blog_laravel</span> check .env file
-<code>php artisan migrate</code>
 
 ## About Laravel
 
